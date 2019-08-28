@@ -1,0 +1,16 @@
+mat-card{
+  margin-top: 5rem;
+}
+
+mat-error{
+
+}
+mat-form-field,
+textarea{
+  width: 100%;
+}
+
+::placeholder {
+  color: rgb(12, 7, 8);
+  opacity: 10;
+}
